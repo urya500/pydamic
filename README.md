@@ -11,12 +11,6 @@
   - **Binary Trees**
   - **More to come...**
 
-- **Algorithms**:
-  - **Searching**: Binary Search, BFS, DFS
-  - **Sorting**: Bubble Sort, Quick Sort, Merge Sort
-  - **Pathfinding**: A*, Dijkstra
-  - **Machine Learning Algorithms**: Linear Regression, KNN
-
 - **Extendable**:
   - Easily add your custom data structures and algorithms using inheritance.
 
